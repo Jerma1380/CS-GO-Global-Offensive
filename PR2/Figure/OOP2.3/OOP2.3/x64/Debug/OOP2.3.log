@@ -1,0 +1,13 @@
+﻿  figure.cpp
+C:\Users\User\source\repos\OOP2.3\OOP2.3\figure.cpp(30,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOP2.3\OOP2.3\figure.cpp(31,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOP2.3\OOP2.3\figure.cpp(32,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOP2.3\OOP2.3\figure.cpp(33,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOP2.3\OOP2.3\figure.cpp(104,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOP2.3\OOP2.3\figure.cpp(105,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOP2.3\OOP2.3\figure.cpp(106,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOP2.3\OOP2.3\figure.cpp(107,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOP2.3\OOP2.3\figure.cpp(108,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOP2.3\OOP2.3\figure.cpp(109,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOP2.3\OOP2.3\figure.cpp(110,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  OOP2.3.vcxproj -> C:\Users\User\source\repos\OOP2.3\x64\Debug\OOP2.3.exe
