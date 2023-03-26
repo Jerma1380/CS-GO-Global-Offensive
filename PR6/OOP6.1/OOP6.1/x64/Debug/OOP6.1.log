@@ -1,0 +1,10 @@
+﻿  Cone.cpp
+  main.cpp
+C:\Users\User\source\repos\OOP6.1\OOP6.1\main.cpp(14,18): warning C4101: R: неиспользованная локальная переменная
+C:\Users\User\source\repos\OOP6.1\OOP6.1\main.cpp(14,15): warning C4101: z: неиспользованная локальная переменная
+C:\Users\User\source\repos\OOP6.1\OOP6.1\main.cpp(14,12): warning C4101: y: неиспользованная локальная переменная
+C:\Users\User\source\repos\OOP6.1\OOP6.1\main.cpp(14,9): warning C4101: x: неиспользованная локальная переменная
+C:\Users\User\source\repos\OOP6.1\OOP6.1\main.cpp(14,21): warning C4101: h: неиспользованная локальная переменная
+C:\Users\User\source\repos\OOP6.1\OOP6.1\main.cpp(14,24): warning C4101: r: неиспользованная локальная переменная
+  Создание кода...
+  OOP6.1.vcxproj -> C:\Users\User\source\repos\OOP6.1\x64\Debug\OOP6.1.exe
